@@ -1,3 +1,4 @@
+
 # HoBook - Hotel de luxe
 
 ### _Hobook est un site de réservation d'hotel comme booking.com (mais en mieux :D )._
@@ -35,7 +36,4 @@ Vous devrez :
 ---
 
 # Bonne chance à tous
-
-
-
 
