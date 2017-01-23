@@ -1,0 +1,137 @@
+html, body {
+    height: 100%;
+     
+}
+.container-fluid {
+   padding:  0px!important;
+   margin: 0px!important;
+   margin-top: 150px;
+}
+/*navbar*/
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white!important;
+}
+.navbar {
+    background: black!important;
+    /*   border: none;*/
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+    width: 100%;
+    height: 100px;
+
+}
+button {
+	color: black!important;
+	background-color: #F6DC12!important;
+	position: relative;
+	bottom: 40px;
+
+}
+.titreLogo {
+	font-size: 3em;
+	color: #F6DC12!important;
+	position: relative;
+	left: 80px;
+	bottom: 12px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
+
+#myNavbar {
+	margin-bottom: 40px;
+	 letter-spacing: 20px;
+	 padding-right: 25px;
+}
+
+#carousel {
+	width: 100%;
+	height: auto;
+	position: relative;
+	bottom: -10px;
+}
+.presentationHotel {
+	font-size: 36px;
+	color: #F6DC12!important; 
+	font-weight: bolder;
+	padding-top: 50px;
+}
+#appart {
+  width:  100%;
+  height: auto;
+}
+aside#chambres {
+	margin-right: 100px;
+	padding: 10px;
+	width: 100%;
+}
+
+.positionCarrousel {
+	width:40%;
+	height: auto;
+	margin-right: 150px;
+}
+.positionCarrousel2 {
+	width:30%;
+	height: 400px;
+	margin-right: 120px;
+}
+button#reservationButton2 {
+float: left;
+text-decoration: none;
+}
+button#reservationButton {
+	float:right;
+}
+ .panel.panel-default {
+	position: relative; 
+	left: 200px;
+	width:100%;
+	background-color: #C8AD7F;
+}
+
+.panel.panel-default h3 {
+	padding-top: 30px;
+	padding-left: 20px;
+	font-size: 20px;
+	text-align: center;
+}
+.panel.panel-default p {
+	font-size: 18px;
+}
+
+h4 {
+	font-weight: bold;
+	font-style: italic;
+	color:  #F6DC12!important;
+}
+/*/*footer*/
+#footer-style {
+	
+	margin-top: 500px;
+}
+.footer-reseaux {
+    background-color: blue;
+    height: auto;
+	padding-bottom: 200px;
+    width: 100%;
+
+}
+
+a.nav-item {
+    text-decoration: none;
+    list-style: none;
+}
+
+.pull-right {
+    padding-top: 50px;
+    text-decoration: none;
+
+}
+.logoSocial {
+ padding-top: 50px; 
+}
